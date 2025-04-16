@@ -2,6 +2,11 @@
 #include <string.h>
 #include <stdlib.h>
 
+
+/*  The following code was created to explicitly show how some very specific characters used for formatting essentially work. 
+These are essentially how formatting works for the C programming language.*/
+
+
 int main (void)
 {
 
