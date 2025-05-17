@@ -4,12 +4,14 @@
 
 int main(void)
 {
+    // Bank Roof
     printf("\n\n");
     printf("|----------------------------------------------------------------------------------|\n");
     printf("|\t\t\t\t\t\t\t\t\t\t   |\n");
-
     printf("|\t\t\t\t    JULIO'S BANK\t\t\t\t   |\n");
     printf("------------------------------------------------------------------------------------\n");
+
+    // Bank Body
     printf("|\t\t||\t\t||\t\t||\t\t||\t   \t   |\n");
     printf("|\t\t||\t\t||\t\t||\t\t||\t   \t   |\n");
     printf("|\t\t||\t\t||\t\t||\t\t||\t   \t   |\n");
@@ -20,7 +22,7 @@ int main(void)
     printf("|\t\t||\t\t||\t\t||\t\t||\t   \t   |\n");
     printf("|_______________||______________||______________||______________||_________________|\n");
 
-
+    // Bank Base/Stairs
     printf("|\t\t\b_/\t\t\b_/\t\t\\_\t\t\\_\t   \t   |\n");
     printf("|\t\t\b\b\b_/\t\t\t\b\b\b_/\t\t\t\t\b\b\b\b\b\b\\_\t\t  \\_\t   \t   |\n");
     printf("|\t\t\b\b\b\b\b_/\t\t\t\b\b\b\b\b_/\t\t\t\t\b\b\b\b\b\b  \\_\t\t    \\_\t   \t   |\n");
