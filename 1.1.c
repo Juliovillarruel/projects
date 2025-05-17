@@ -7,8 +7,9 @@ int main(void)
     printf("\n\n");
     printf("|----------------------------------------------------------------------------------|\n");
     printf("|\t\t\t\t\t\t\t\t\t\t   |\n");
+    printf("|\t\t\t\t   JULIOS BANK       \t\t\t\t   |\n");
+        printf("|\t\t\t\t\t\t\t\t\t\t   |\n");
 
-    printf("|\t\t\t\t      Mayhem    \t\t\t\t   |\n");
     printf("------------------------------------------------------------------------------------\n");
     printf("|\t\t||\t\t||\t\t||\t\t||\t   \t   |\n");
     printf("|\t\t||\t\t||\t\t||\t\t||\t   \t   |\n");
